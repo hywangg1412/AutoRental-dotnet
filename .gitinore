@@ -1,7 +1,59 @@
-   bin/
-   obj/
-   *.user
-   *.suo
-   *.cache
-   *.log
-   *.db
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.dll
+*.exe
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio folders
+.vs/
+.vscode/
+
+# Rider IDE
+.idea/
+
+# Test results
+TestResults/
+*.ncrunch*
+*.vspscc
+*.vssscc
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Others
+*.log
+*.db
+*.cache
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb
+*.svclog
+*.sdf
+*.sqlite
+*.suo
+*.sdf
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Publish
+publish/
+out/

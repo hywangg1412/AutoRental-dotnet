@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "L:\\Workspace\\C#\\AutoRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{914E3038-6789-4092-8B76-DA25EFCA17C8}|AutoRental.UI\\AutoRental.UI.csproj|l:\\workspace\\c#\\autorental\\autorental.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{914E3038-6789-4092-8B76-DA25EFCA17C8}|AutoRental.UI\\AutoRental.UI.csproj|solutionrelative:autorental.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E3038-6789-4092-8B76-DA25EFCA17C8}|AutoRental.UI\\AutoRental.UI.csproj|l:\\workspace\\c#\\autorental\\autorental.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E3038-6789-4092-8B76-DA25EFCA17C8}|AutoRental.UI\\AutoRental.UI.csproj|solutionrelative:autorental.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0DF87-EA9D-467E-8D0E-E32155E7C091}|AutoRental.DataAccess\\AutoRental.DataAccess.csproj|l:\\workspace\\c#\\autorental\\autorental.dataaccess\\autorental.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AB0DF87-EA9D-467E-8D0E-E32155E7C091}|AutoRental.DataAccess\\AutoRental.DataAccess.csproj|solutionrelative:autorental.dataaccess\\autorental.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5847E03-08F4-4BD0-BF2B-7F7E303E3EEB}|AutoRental.Services\\AutoRental.Services.csproj|l:\\workspace\\c#\\autorental\\autorental.services\\autorental.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5847E03-08F4-4BD0-BF2B-7F7E303E3EEB}|AutoRental.Services\\AutoRental.Services.csproj|solutionrelative:autorental.services\\autorental.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "L:\\Workspace\\C#\\AutoRental\\AutoRental.UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AutoRental.UI\\MainWindow.xaml",
+              "ToolTip": "L:\\Workspace\\C#\\AutoRental\\AutoRental.UI\\MainWindow.xaml",
+              "RelativeToolTip": "AutoRental.UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T16:03:30.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "L:\\Workspace\\C#\\AutoRental\\AutoRental.UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AutoRental.UI\\MainWindow.xaml.cs",
+              "ToolTip": "L:\\Workspace\\C#\\AutoRental\\AutoRental.UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AutoRental.UI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:03:29.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoRental.DataAccess",
+              "DocumentMoniker": "L:\\Workspace\\C#\\AutoRental\\AutoRental.DataAccess\\AutoRental.DataAccess.csproj",
+              "RelativeDocumentMoniker": "AutoRental.DataAccess\\AutoRental.DataAccess.csproj",
+              "ToolTip": "L:\\Workspace\\C#\\AutoRental\\AutoRental.DataAccess\\AutoRental.DataAccess.csproj",
+              "RelativeToolTip": "AutoRental.DataAccess\\AutoRental.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T16:00:28.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoRental.Services",
+              "DocumentMoniker": "L:\\Workspace\\C#\\AutoRental\\AutoRental.Services\\AutoRental.Services.csproj",
+              "RelativeDocumentMoniker": "AutoRental.Services\\AutoRental.Services.csproj",
+              "ToolTip": "L:\\Workspace\\C#\\AutoRental\\AutoRental.Services\\AutoRental.Services.csproj",
+              "RelativeToolTip": "AutoRental.Services\\AutoRental.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T15:59:20.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
