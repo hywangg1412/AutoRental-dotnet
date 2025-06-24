@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoRental.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ad849e598fcd57c1ee23642247ec14d1e2c7418")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76fc000b90a7d346cbb31d1001e7642adaf3e3aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoRental.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoRental.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

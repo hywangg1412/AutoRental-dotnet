@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoRental.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d17d9c91d2f2812c4ab81678cb518e89a67ef38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76fc000b90a7d346cbb31d1001e7642adaf3e3aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoRental.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoRental.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

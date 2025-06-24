@@ -1,6 +1,6 @@
 # Build results
-bin/
-obj/
+**/bin/
+**/obj/
 [Bb]uild/
 [Bb]uilds/
 *.dll
@@ -16,7 +16,7 @@ obj/
 .vs/
 .vscode/
 
-# Rider IDE
+# JetBrains Rider
 .idea/
 
 # Test results
@@ -46,9 +46,6 @@ artifacts/
 *.svclog
 *.sdf
 *.sqlite
-*.suo
-*.sdf
-*.sln.docstates
 
 # OS generated files
 .DS_Store
@@ -57,3 +54,6 @@ Thumbs.db
 # Publish
 publish/
 out/
+
+# dotnet CLI
+*.generated.cs
