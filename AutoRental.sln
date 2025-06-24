@@ -3,7 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36212.18 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRental.Models", "AutoRental.Models\AutoRental.Models.csproj", "{ED90FAFD-8DC7-4C61-AEF1-FEC201E8AA77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRental.DataAccess", "AutoRental.DataAccess\AutoRental.DataAccess.csproj", "{5AB0DF87-EA9D-467E-8D0E-E32155E7C091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRental.Services", "AutoRental.Services\AutoRental.Services.csproj", "{A5847E03-08F4-4BD0-BF2B-7F7E303E3EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRental.UI", "AutoRental.UI\AutoRental.UI.csproj", "{914E3038-6789-4092-8B76-DA25EFCA17C8}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED90FAFD-8DC7-4C61-AEF1-FEC201E8AA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED90FAFD-8DC7-4C61-AEF1-FEC201E8AA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED90FAFD-8DC7-4C61-AEF1-FEC201E8AA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED90FAFD-8DC7-4C61-AEF1-FEC201E8AA77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB0DF87-EA9D-467E-8D0E-E32155E7C091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB0DF87-EA9D-467E-8D0E-E32155E7C091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB0DF87-EA9D-467E-8D0E-E32155E7C091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB0DF87-EA9D-467E-8D0E-E32155E7C091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5847E03-08F4-4BD0-BF2B-7F7E303E3EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5847E03-08F4-4BD0-BF2B-7F7E303E3EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5847E03-08F4-4BD0-BF2B-7F7E303E3EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5847E03-08F4-4BD0-BF2B-7F7E303E3EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{914E3038-6789-4092-8B76-DA25EFCA17C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914E3038-6789-4092-8B76-DA25EFCA17C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914E3038-6789-4092-8B76-DA25EFCA17C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914E3038-6789-4092-8B76-DA25EFCA17C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
